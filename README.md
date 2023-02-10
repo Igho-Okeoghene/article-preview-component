@@ -29,7 +29,7 @@ Right now the social media links connect to mine. I'm friendly, feel free to cha
 
 ### Screenshot
 
-![https://github.com/Igho-Okeoghene/article-preview-component/blob/main/design/desktop-preview.jpg](./screenshot.jpg)
+![Article Preview Component Image]([./screenshot.jpg](https://github.com/Igho-Okeoghene/article-preview-component/blob/main/design/desktop-preview.jpg))
 
 ### Links
 
